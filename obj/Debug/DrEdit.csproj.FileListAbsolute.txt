@@ -1,0 +1,12 @@
+G:\_Driver\dredit-master\dotnet\bin\DrEdit.dll
+G:\_Driver\dredit-master\dotnet\bin\DrEdit.pdb
+G:\_Driver\dredit-master\dotnet\bin\DotNetOpenAuth.dll
+G:\_Driver\dredit-master\dotnet\bin\EntityFramework.dll
+G:\_Driver\dredit-master\dotnet\bin\Google.Apis.Authentication.OAuth2.dll
+G:\_Driver\dredit-master\dotnet\bin\Google.Apis.dll
+G:\_Driver\dredit-master\dotnet\bin\Google.Apis.Drive.v2.dll
+G:\_Driver\dredit-master\dotnet\bin\Google.Apis.Oauth2.v2.dll
+G:\_Driver\dredit-master\dotnet\bin\Newtonsoft.Json.Net35.dll
+G:\_Driver\dredit-master\dotnet\obj\Debug\DrEdit.dll
+G:\_Driver\dredit-master\dotnet\obj\Debug\DrEdit.pdb
+G:\_Driver\dredit-master\dotnet\obj\Debug\DrEdit.csprojResolveAssemblyReference.cache
